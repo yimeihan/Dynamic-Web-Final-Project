@@ -1,0 +1,27 @@
+
+body,
+#canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+h1 {
+  color:white;
+  font-size: 20PX;
+  font-weight: 100;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  position: absolute;
+  letter-spacing: -0.04em;
+  left: 0;
+  bottom: 2%;
+  width: 100%;
+  text-align: center;
+  pointer-events: none;
+}
